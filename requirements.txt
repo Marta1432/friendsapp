@@ -1,11 +1,4 @@
-streamlit==1.29.0
+streamlit
 pandas
 plotly
-openai
-
-pycaret==2.3.10
-scikit-learn<1.0
-numpy<1.22
-mlflow==1.14.1
-numba==0.53
-scipy<1.7
+pycaret==3.3.2
