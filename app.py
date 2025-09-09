@@ -3,6 +3,10 @@ import streamlit as st
 import pandas as pd 
 from pycaret.clustering import load_model, predict_model  
 import plotly.express as px  
+import openai
+import streamlit as st
+
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 
 MODEL_NAME = 'welcome_survey_clustering_pipeline_v2'
