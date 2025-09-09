@@ -7,7 +7,17 @@ import openai
 import streamlit as st
 
 
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+st.sidebar.markdown("---")
+openai_key = st.sidebar.text_input("🔑 Wpisz swój klucz OpenAI API:", type="password")
+
+
+if not openai_key:
+    st.warning("🔐 Wpisz swój klucz OpenAI API, aby kontynuować.")
+    st.stop()
+
+openai.api_key = openai_key
+
+
 
 
 MODEL_NAME = 'welcome_survey_clustering_pipeline_v2'

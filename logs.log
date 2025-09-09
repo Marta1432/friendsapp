@@ -22,7 +22,7 @@
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -60,7 +60,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -88,7 +88,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -116,7 +116,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -144,7 +144,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -172,7 +172,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -200,7 +200,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -228,7 +228,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -266,7 +266,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -294,7 +294,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -322,7 +322,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -350,7 +350,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -378,7 +378,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -406,7 +406,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -434,7 +434,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -462,7 +462,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -490,7 +490,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -518,7 +518,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -546,7 +546,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -574,7 +574,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -602,7 +602,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -630,7 +630,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -658,7 +658,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -686,7 +686,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -714,7 +714,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -742,7 +742,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -770,7 +770,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -798,7 +798,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -826,7 +826,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -854,7 +854,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -882,7 +882,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -910,7 +910,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -938,7 +938,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -966,7 +966,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -994,7 +994,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -1022,7 +1022,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -1050,7 +1050,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -1078,7 +1078,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -1106,7 +1106,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -1134,7 +1134,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -1162,7 +1162,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -1190,7 +1190,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -1218,7 +1218,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -1246,7 +1246,7 @@ dtype: int64}]))),
                                                                mapping=[{'col': 'gender',
                                                                          'data_type': dtype('O'),
                                                                          'mapping': Kobieta      0
-Mê¿czyzna    1
+Mï¿½czyzna    1
 NaN         -1
 dtype: int64}]))),
                 ('onehot_encoding',
@@ -1268,3 +1268,331 @@ dtype: int64}]))),
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
 2025-09-09 11:50:29,463:WARNING:
 'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-09 12:29:08,369:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-09 12:29:08,369:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-09 12:29:08,369:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-09 12:29:08,369:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-09 12:29:12,699:INFO:Initializing load_model()
+2025-09-09 12:29:12,699:INFO:load_model(model_name=welcome_survey_clustering_pipeline_v2, platform=None, authentication=None, verbose=True)
+2025-09-09 12:29:12,967:INFO:Initializing predict_model()
+2025-09-09 12:29:12,968:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001F31381DED0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 12:29:12,968:INFO:Set up data.
+2025-09-09 12:29:13,396:INFO:Initializing predict_model()
+2025-09-09 12:29:13,396:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001F31EACD310>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 12:29:13,396:INFO:Set up data.
+2025-09-09 12:29:27,464:INFO:Initializing predict_model()
+2025-09-09 12:29:27,464:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001F31F81E650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 12:29:27,465:INFO:Set up data.
+2025-09-09 12:29:33,595:INFO:Initializing predict_model()
+2025-09-09 12:29:33,596:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001F31D74C110>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 12:29:33,596:INFO:Set up data.
+2025-09-09 12:29:39,104:INFO:Initializing predict_model()
+2025-09-09 12:29:39,105:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001F31FA843D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 12:29:39,105:INFO:Set up data.
+2025-09-09 12:29:39,747:INFO:Initializing predict_model()
+2025-09-09 12:29:39,747:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001F31ED5F6D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 12:29:39,747:INFO:Set up data.
+2025-09-09 12:29:41,651:INFO:Initializing predict_model()
+2025-09-09 12:29:41,652:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001F31FA2F890>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 12:29:41,652:INFO:Set up data.
+2025-09-09 12:29:44,183:INFO:Initializing predict_model()
+2025-09-09 12:29:44,184:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001F31FA22590>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 12:29:44,184:INFO:Set up data.
+2025-09-09 12:29:45,303:INFO:Initializing predict_model()
+2025-09-09 12:29:45,303:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001F31FA45C50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 12:29:45,303:INFO:Set up data.
+2025-09-09 13:08:18,414:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-09 13:08:18,415:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-09 13:08:18,415:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-09 13:08:18,415:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-09-09 13:08:38,011:INFO:Initializing load_model()
+2025-09-09 13:08:38,011:INFO:load_model(model_name=welcome_survey_clustering_pipeline_v2, platform=None, authentication=None, verbose=True)
+2025-09-09 13:08:38,275:INFO:Initializing predict_model()
+2025-09-09 13:08:38,276:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001D2BAF11190>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 13:08:38,276:INFO:Set up data.
+2025-09-09 13:08:38,756:INFO:Initializing predict_model()
+2025-09-09 13:08:38,757:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001D2BCC27110>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=[], transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place', 'gender'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['gender'],
+                                    transfo...
+                                                               mapping=[{'col': 'gender',
+                                                                         'data_type': dtype('O'),
+                                                                         'mapping': Kobieta      0
+Mï¿½czyzna    1
+NaN         -1
+dtype: int64}]))),
+                ('onehot_encoding',
+                 TransformerWrapper(include=['age', 'edu_level', 'fav_animals',
+                                             'fav_place'],
+                                    transformer=OneHotEncoder(cols=['age',
+                                                                    'edu_level',
+                                                                    'fav_animals',
+                                                                    'fav_place'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('trained_model', KMeans(random_state=123))]), ml_usecase=None)
+2025-09-09 13:08:38,757:INFO:Set up data.
