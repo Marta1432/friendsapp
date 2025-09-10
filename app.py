@@ -73,7 +73,7 @@ predicted_cluster_data = cluster_names_and_descriptions[predicted_cluster_id]
 
 image_path = f"images/cluster_{predicted_cluster_image_id}.png"
 
-st.image(image_path, use_container_width=True)
+st.image(image_path)
 
 
 st.header(f"Najbliżej Ci do grupy {predicted_cluster_data['name']}")
